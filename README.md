@@ -55,7 +55,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
    ![create-branch-button](/images/create-branch-button.png)
 
    The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+   
 
 <footer>
 
